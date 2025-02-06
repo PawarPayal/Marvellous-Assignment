@@ -1,0 +1,1 @@
+#include<iostream>using namespace std;int main(){	int no=11;		it &x=no;	//		int *p=&no;	//p is pointer which holds address of integer currently it hold address of no		double d=90.9;		double &y=d;	double &z=d;	int &a=x		return 0;}
