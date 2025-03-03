@@ -1,10 +1,16 @@
 # Topic:
-File Packer Unpacker Project
+
+File Packer-Unpacker Project
+
 # Introduction:
+
 o Multiple file in Directory can be packed (merge) into a single file and then you can unpack that merge file to get all the files of that Directory back.  
-o New file create will be in encrypt by using default key. so that know one can read our file data.  
+
+o New file create will be in encrypt by using default key. so that know one can read our file data. 
+ 
 o The main reason to do this project is to understand File system call like ( open() , creat() , read() , write() , opendir() , readdir() , lseek , stat)  
 ## Project Statistic
+
 __Platform :__ Linux
 
 __Technology :__ C
@@ -28,7 +34,7 @@ __Type :__ CUI
 
 1. Create executable file
 
-        cc main.c filePacker.c fileUnpacker.c helpInfo.c helperFunction.c searchFile.c -o ExcuteData/PackUnpack
+cc main.c filePacker.c fileUnpacker.c helpInfo.c helperFunction.c searchFile.c -o ExcuteData/PackUnpack
 
 2. Different type of command
 
