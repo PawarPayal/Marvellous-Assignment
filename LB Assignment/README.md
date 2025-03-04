@@ -6,26 +6,26 @@ o The codes cover a wide range of topics, including basic programming concepts, 
 
 # Basic Programming:
 
-o Variables, Data Types, Operators
-o Conditional Statements (if-else, switch-case)
-o Loops (for, while, do-while)
+o Variables, Data Types, Operators  
+o Conditional Statements (if-else, switch-case)  
+o Loops (for, while, do-while)  
 
 # Data Structures
 
-o Arrays, Linked Lists, Stacks, Queues
-o Trees, Graphs, Hash Tables
+o Arrays, Linked Lists, Stacks, Queues  
+o Trees, Graphs, Hash Tables  
 
 # Algorithms:
 
-o Sorting and Searching (Bubble Sort, Quick Sort, Binary Search)
-o Recursion and Backtracking
-o Dynamic Programming
-o Greedy Algorithms
+o Sorting and Searching (Bubble Sort, Quick Sort, Binary Search)  
+o Recursion and Backtracking  
+o Dynamic Programming  
+o Greedy Algorithms  
 
 # Mathematical Problems
 
-o Prime Numbers, Factorial, Fibonacci
-o Number Theory Concepts
+o Prime Numbers, Factorial, Fibonacci  
+o Number Theory Concepts  
 
 # Competitive Programming
 
