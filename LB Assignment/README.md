@@ -29,6 +29,6 @@ o Number Theory Concepts
 
 # Competitive Programming
 
-o String Manipulation
-o Bit Manipulation
-o Graph Algorithms (DFS, BFS, Dijkstra's Algorithm)
+o String Manipulation  
+o Bit Manipulation  
+o Graph Algorithms (DFS, BFS, Dijkstra's Algorithm)  
